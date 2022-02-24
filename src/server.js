@@ -5,5 +5,5 @@ const port = 7000;
 
 // Localhost:7000
 server.listen(port, () => {
-  console.log(`Aplicação está 🚀 na porta ${port}.`);
+  console.log(`Aplicação está lançada na porta ${port}.`);
 });
